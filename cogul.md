@@ -10,7 +10,7 @@
       - ǩiti -> ǩit-epe
       - coğori -> coğor-epe
       - iti -> it-epe
-3. ### -epek
+3. ### -lepe
    - cuma-lepe
    - ndğa-lepe
    - kva-lepe
