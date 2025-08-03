@@ -11,6 +11,7 @@
 | Onlar-ın | Hentepe | nişi |
 
 Cuma > Kardeş
+
 | TR | LZ |
 | --- | --- |
 | Kardeşim | Cumaçkimi |
@@ -21,6 +22,7 @@ Cuma > Kardeş
 | Kardeşleri | Cumanişi |
 
 Bozo > Kız
+
 | TR | LZ |
 | --- | --- |
 | Kızım | Bozoçkimi |
@@ -31,6 +33,7 @@ Bozo > Kız
 | Kızları | Bozonişi |
 
 Oxori > Ev
+
 | TR | LZ |
 | --- | --- |
 | Evim | Oxoriçkimi |
