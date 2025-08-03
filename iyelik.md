@@ -10,12 +10,32 @@
 | Siz-in | Tkva | tkvani |
 | Onlar-ın | Hentepe | nişi |
 
-
+Cuma > Kardeş
 | TR | LZ |
 | --- | --- |
 | Kardeşim | Cumaçkimi |
 | Kardeşin | Cumaskani |
-| Kardeşi | Cmuamuşi |
+| Kardeşi | Cumamuşi |
 | Kardeşimiz | Cumaçkuni |
 | Kardeşiniz | Cuma tkvani |
 | Kardeşleri | Cumanişi |
+
+Bozo > Kız
+| TR | LZ |
+| --- | --- |
+| Kızım | Bozoçkimi |
+| Kızın | Bozoskani |
+| Kızı | Bozomuşi |
+| Kızımız | Bozoçkuni |
+| Kızınız | Bozo tkvani |
+| Kızları | Bozonişi |
+
+Oxori > Ev
+| TR | LZ |
+| --- | --- |
+| Evim | Oxoriçkimi |
+| Evin | Oxoriskani |
+| Evi | Oxorimuşi |
+| Evimiz | Oxoriçkuni |
+| Eviniz | Oxori tkvani |
+| Evleri | Oxorinişi |
