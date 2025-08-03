@@ -9,7 +9,7 @@
    2.1. Eğer kelime çox heceliyse ve sonu -i ile bitiyorsa -i düşer -epe eki alır.
       - ǩiti -> ǩit-epe
       - coğori -> coğor-epe
-      - iti -> it-epe
+      - ili -> il-epe
 3. ### -lepe
    - cuma-lepe
    - ndğa-lepe
