@@ -6,7 +6,7 @@
    - bozo-pe
    - bere-pe
 2. ### -epe
-   2.1. Eğer kelime çox heceliyse ve sonu -i ile bitiyorsa -i düşer -epe eki alır.
+   1. Eğer kelime çox heceliyse ve sonu -i ile bitiyorsa -i düşer -epe eki alır.
       - ǩiti -> ǩit-epe
       - coğori -> coğor-epe
       - ili -> il-epe
