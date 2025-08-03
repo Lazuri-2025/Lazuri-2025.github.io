@@ -1,17 +1,17 @@
 çkimi | skani | muşi | çkuni | tkvani | nişi
 -
 
-| TR | Xvalepe - Tekil | Didope - Çoğul |
+| TR | Şahıs | İyelik |
 | --- | --- | --- |
-| Ben | Ma | çkimi |
-| Sen | Si | skani |
-| O | Hem | muşi |
-| Biz | Çku | çkuni |
-| Siz | Tkva | tkvani |
-| Onlar | Hentepe | nişi |
+| Ben-im | Ma | çkimi |
+| Sen-in | Si | skani |
+| O-nun | Hem | muşi |
+| Biz-im | Çku | çkuni |
+| Siz-in | Tkva | tkvani |
+| Onlar-ın | Hentepe | nişi |
 
 
-| TR | Didope |
+| TR | LZ |
 | --- | --- |
 | Kardeşim | Cumaçkimi |
 | Kardeşin | Cumaskani |
