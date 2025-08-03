@@ -1,0 +1,1 @@
+Çoğul Ekleri
