@@ -2,6 +2,7 @@
 -
 
 | TR | Xvalepe | Didope |
+| --- | --- | --- |
 | Ben | Ma | çkimi |
 | Sen | Si | skani |
 | O | Hem | muşi |
