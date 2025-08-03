@@ -1,5 +1,6 @@
 çkimi | skani | muşi | çkuni | tkvani | nişi
 -
+
 | TR | Xvalepe | Didope |
 | Ben | Ma | çkimi |
 | Sen | Si | skani |
