@@ -1,1 +1,3 @@
-Çoğul Ekleri
+## Çoğul Ekleri
+
+-pe | -epe | -lepe
